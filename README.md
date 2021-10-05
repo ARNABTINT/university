@@ -1,5 +1,5 @@
 # University
-Open Source app to view Free resources available online. The resources would be condesed into roadmaps provided by mentors skilled in their domains.
+Open Source app to view Free resources available in online. The resources would be condesed into roadmaps provided by mentors skilled in their domains.
 <p>
 Join the discussion on <b>Discord</b>:                                                                                                        
 <a href="https://discord.com/invite/mx5tjevvQd">
@@ -7,7 +7,7 @@ Join the discussion on <b>Discord</b>:
   </a>
 </p>
 
-## Screenshots
+## Screenshots are mentioned here
 <table>
         <tr>
           <td>
@@ -32,14 +32,14 @@ Join the discussion on <b>Discord</b>:
 ## Contributing Guidelines
 Please follow the [contributing guidelines](./.github/CONTRIBUTION.md) to contribute to the project.
 
-## Documents related to the project:
+## Documents related to the projects:
 
 - [LICENSE](./LICENSE)
 - [CODE OF CONDUCT](./CODE_OF_CONDUCT.md)
 - [CONTRIBUTION GUIDELINES](./.github/CONTRIBUTION.md)
 - [CHANGELOG](./CHANGELOG.md)
 
-#### Contributors👩‍💻👨‍💻 :
+#### Contributors 👩‍💻👨‍💻 :
 <a href="https://github.com/adityathakurxd/university/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=adityathakurxd/university" />
 </a>
