@@ -1,4 +1,4 @@
-# University
+ # University
 Open Source app to view Free resources available in online. The resources would be condesed into roadmaps provided by mentors skilled in their domains.
 <p>
 Join the discussion on <b>Discord</b>:                                                                                                        
